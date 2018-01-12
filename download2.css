@@ -1,0 +1,9 @@
+.purple-grad {
+    position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: 0;
+    opacity: 0.3;
+  }
+
+  @media (max-width: 992px) {
+    .purple-grad {
+      opacity: 0.5;
+    }
